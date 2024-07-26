@@ -1,4 +1,4 @@
-# Welcome to my Classically Punk
+# Welcome to my Music Classification
 
 ### Task 
 Our first mission will be to find a library that "reads" music. (Computers don`t listen to music, they read it :) ) Then our second mission will be to separate a collection of music files into different music genres, and to do so, we will need to be able to first identify features inside the music files that will be used for classification.
